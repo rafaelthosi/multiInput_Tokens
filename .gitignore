@@ -1,3 +1,6 @@
 /mta_archives/
 /node_modules/
 /resources/
+mta.yaml
+package.json
+testediogo-approuter
