@@ -3,3 +3,9 @@ package-lock.json
 /dist/
 /.vscode/
 /*-content.zip/ 
+.env1
+.eslintrc
+package.json
+tsconfig.json
+ui5.yaml
+xs-app.json
