@@ -26,7 +26,7 @@ sap.ui.define([
                 this.parameters = []
             },
             
-            tokenChange: function (oEvent) {
+            tokenUpdate: function (oEvent) {
                 
                 this.parameters.push(oEvent.getParameters().addedTokens[0].mProperties.text)
                 console.log(this.parameters)

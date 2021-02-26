@@ -5,7 +5,7 @@
 				<Page id="page" title="{i18n>title}">
 					<content>
                         <Label text="MultiInput with pre-selected tokens" labelFor="multiInput1"/>
-	                	<MultiInput id="multiInput1" width="70%" showValueHelp="false" tokenUpdate="tokenChange"/>
+	                	<MultiInput id="multiInput1" width="70%" showValueHelp="false" tokenUpdate="tokenUpdate"/>
                     </content>
 				</Page>
 			</pages>
